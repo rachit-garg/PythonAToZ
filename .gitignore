@@ -1,0 +1,4 @@
+~/PycharmProjects/PythonAToZ/venv/*
+venv/*
+.idea/misc.xml
+__pycache__/

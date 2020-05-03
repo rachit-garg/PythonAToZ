@@ -1,0 +1,12 @@
+2020-02-23 21:25:29,023 INFO     [adhoc.py : 4] This will not showed up
+2020-02-23 21:25:29,024 WARNING  [adhoc.py : 5] This Will
+2020-02-23 21:25:29,025 DEBUG    [adhoc.py : 6] This is a debug message.
+2020-02-23 21:25:29,025 CRITICAL [adhoc.py : 7] A critical error occurred
+2020-02-23 21:25:54,707 INFO     [adhoc.py : 4] This will not showed up
+2020-02-23 21:25:54,708 WARNING  [adhoc.py : 5] This Will
+2020-02-23 21:25:54,709 DEBUG    [adhoc.py : 6] This is a debug message.
+2020-02-23 21:25:54,709 CRITICAL [adhoc.py : 7] A critical error occurred
+2020-02-23 21:26:30,206 WARNING  [adhoc.py : 5] This Will
+2020-02-23 21:26:30,207 CRITICAL [adhoc.py : 7] A critical error occurred
+2020-02-23 21:26:45,226 WARNING  [adhoc.py : 5] This Will
+2020-02-23 21:26:45,227 CRITICAL [adhoc.py : 7] A critical error occurred
